@@ -1,0 +1,4 @@
+.env
+.background_worker.log
+.blog_automation.log
+/env

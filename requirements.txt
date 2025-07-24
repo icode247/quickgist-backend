@@ -1,0 +1,59 @@
+# Core Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Database & Caching
+redis==5.0.1
+
+# Web Scraping & RSS
+feedparser==6.0.10
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Social Media Automation
+selenium==4.15.2
+webdriver-manager==4.0.1
+chromedriver-autoinstaller==0.6.2
+undetected-chromedriver==3.5.4
+
+# Scheduling & Background Tasks
+schedule==1.2.0
+APScheduler==3.10.4
+
+# AI & Text Processing
+openai>=1.0.0
+nltk==3.8.1
+textblob==0.17.1
+
+# Image Processing & Cloud Storage
+Pillow==10.0.1
+cloudinary>=1.36.0
+
+# Security & Encryption
+pycryptodome>=3.12.0
+cryptography>=41.0.0
+
+# Utilities & Environment
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+pytz>=2023.3
+
+# HTTP Clients
+httpx==0.25.0
+
+# Logging & Monitoring
+structlog==23.1.0
+
+# Development & Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Production Server (optional)
+gunicorn>=21.0.0
+waitress>=2.1.0
+
+rollbar==1.3.0
+blinker==1.9.0
